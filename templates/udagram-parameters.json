@@ -1,0 +1,22 @@
+[
+    {
+        "ParameterKey": "SystemID",
+        "ParameterValue": "IaC"
+    },
+    {
+        "ParameterKey": "VolumeSize",
+        "ParameterValue": "10"
+    },
+	{
+		"ParameterKey": "KeyPairName",
+		"ParameterValue": "udacity-iac-keypair"
+	},
+    {
+        "ParameterKey": "ImageId",
+        "ParameterValue": "ami-0a0e5d9c7acc336f1"
+    },
+    {
+        "ParameterKey": "S3BucketName",
+        "ParameterValue": "udacity-iac-s3-webserver-bucket"
+    }
+]
